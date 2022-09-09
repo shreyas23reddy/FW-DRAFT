@@ -1,0 +1,6 @@
+DataPolicyFwName: FireWall_Redirection
+site_ID: 120
+vmanage_host: 152.22.242.15
+vmanage_password: '@1Admin'
+vmanage_port: '10101'
+vmanage_username: admin
